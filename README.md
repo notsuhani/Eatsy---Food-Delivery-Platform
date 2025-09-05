@@ -1,4 +1,4 @@
-# Eatsy - Food-Delivery-Platform
+
 # 🍔 Eatsy - Food Delivery Platform
 
 Eatsy is a full-featured **food delivery platform** where users can browse restaurants, explore menus, place orders, and track deliveries in real-time.  
