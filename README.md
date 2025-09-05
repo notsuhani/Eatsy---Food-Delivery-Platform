@@ -39,9 +39,9 @@ It also includes dashboards for **users, restaurant owners, and delivery partner
 
 ## ⚡ Getting Started
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/notsuhani/Eatsy---Food-Delivery-Platform.git
 cd Eatsy---Food-Delivery-Platform
 
-## 📂 Project Structure
+
